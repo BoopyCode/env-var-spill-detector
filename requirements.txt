@@ -1,0 +1,2 @@
+# No dependencies! Just bash and a healthy fear of public shame.
+# Works on any system with bash (which is basically all of them).
